@@ -46,4 +46,4 @@ O projeto está dividido em pacotes para melhor manutenção e escalabilidade:
 5.  O arquivo `agendamentos.txt` será gerado automaticamente na raiz do projeto após o primeiro uso.
 
 ---
-Desenvolvido por NATANAEL PEREIRA como parte de estudos em C++ Backend.
+Desenvolvido por NATANAEL PEREIRA como parte de estudos em Java Backend.
