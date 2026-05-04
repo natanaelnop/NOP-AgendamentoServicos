@@ -1,0 +1,12 @@
+# Pastas de compilação e binários
+/bin/
+*.class
+
+# Arquivos de configuração do Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Arquivo de dados local
+agendamentos.txt
